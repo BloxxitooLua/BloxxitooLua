@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, Je m'appelle Bloxxitoo</h1>
+<h1 align="center">Bonjour 👋,  Je m'appelle Bloxxitoo</h1>
 
 <h3 align="center">Étudiant en licence de Développeur full stack 📚</h3>
 
