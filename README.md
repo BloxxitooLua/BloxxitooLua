@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloxxitoolua&label=Profile%20views&color=0e75b6&style=flat" alt="bloxxitoolua" /> </p>
 
-<h3 align="left">Connectez-vous avec moi :< /h3>
+<h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
 </p>
 
