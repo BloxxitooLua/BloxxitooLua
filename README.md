@@ -1,6 +1,7 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Bloxxitoo</h1>
 <h3 align="center">Étudiant en licence de Développeur full stack 📚</h3>
 
+
 # 💫 À propos de moi:
 👨‍💻 Mon langage de programmation préféré est Lua parce que c'est drôle.<br><br>⚡ J'utilise principalement VSC pour le codage car c'est le meilleur IDE à mon avis.
 
