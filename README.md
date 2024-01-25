@@ -1,4 +1,5 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Bloxxitoo</h1>
+
 <h3 align="center">Étudiant en licence de Développeur full stack 📚</h3>
 
 
@@ -14,5 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BloxxitooLua&icon=9&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
