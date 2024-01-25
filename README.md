@@ -3,7 +3,7 @@
 
 <img align="right" alt"=coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0qTx9S5NDedZvOm5XChfSa&ust=1706247143721000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCoqI3o94MDFQAAAAAdAAAAABBh">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bloxxitoolua&label=Profile%20views&color=0e75b6&style=flat" alt="bloxxitoolua" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bloxxitoolua&label=Profile%20views&color=0e75b6&style=flat" alt="bloxxitoolua"/> </p>
 
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
