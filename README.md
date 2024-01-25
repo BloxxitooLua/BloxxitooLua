@@ -1,17 +1,21 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Bloxxitoo</h1>
 <h3 align="center">Étudiant en licence de Développeur full stack 📚</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bloxxitoolua&label=Profile%20views&color=0e75b6&style=flat" alt="bloxxitoolua" /> </p>
+# 💫 À propos de moi:
+👨‍💻 Mon langage de programmation préféré est Lua parce que c'est drôle.<br><br>⚡ J'utilise principalement VSC pour le codage car c'est le meilleur IDE à mon avis.
 
-<h3 align="left">Connectez-vous avec moi :< /h3>
-<p align="left">
-</p>
 
-<h3 align="left">Langues et outils :</h3>
-<p align="left"> <a href="https://www. gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https : //raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href=" https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop- line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/BloxxitooLua) 
 
-<p><img align="left" src="https://github-readme- stats.vercel.app/api/top-langs?username=bloxxitoolua&show_icons=true&locale=en&layout=compact" alt="bloxxitoolua" /></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BloxxitooLua&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BloxxitooLua&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BloxxitooLua&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p> <img align="center" src="https : //github-readme-stats.vercel.app/api?username=bloxxitoolua&show_icons=true&locale=en" alt="bloxxitoolua" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=BloxxitooLua&icon=9&color=3)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https:// github-readme-streak-stats.herokuapp.com/?user=bloxxitoolua&" alt="bloxxitoolua" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
