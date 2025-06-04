@@ -50,7 +50,7 @@
 [![Discord](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Discord.png)](https://discordlookup.com/user/1062181554278891560)
 [![Telegram](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Telegram.png)](https://bbbvw75x.t.me)
 [![Twitter](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Twitter.png)](https://twitter.com/bbbvw75x)
-[![Youtube](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Discord.png?raw=true)](https://www.youtube.com/@Bloxxitoo)
+[![Youtube](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Youtube.png)](https://www.youtube.com/@Bloxxitoo)
 [![Twitch](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Twitch.png?raw=true)](https://www.twitch.tv/Bloxxv2)
 [![Instagram](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Instagram.png?raw=true)](https://www.instagram.com/tismqq/)
 
