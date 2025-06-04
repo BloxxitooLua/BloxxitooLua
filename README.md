@@ -47,12 +47,12 @@
 
   <h3 align="left" style="color: #333;">Réseaux sociaux 🌐</h3>
   
-[![Discord](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Discord.png)](https://discordlookup.com/user/187986767696101385)
-[![Telegram](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Telegram.png)](https://UneyTech.t.me)
-[![Twitter](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Twitter.png)](https://twitter.com/UneyTech)
-[![Youtube](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Discord.png?raw=true)](https://www.youtube.com/@UneyTech)
-[![Twitch](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Twitch.png?raw=true)](https://www.twitch.tv/UneyTech)
-[![Instagram](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Instagram.png?raw=true)](https://www.instagram.com/UneyTech/)
+[![Discord](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Discord.png)](https://discordlookup.com/user/1062181554278891560)
+[![Telegram](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Telegram.png)](https://bbbvw75x.t.me)
+[![Twitter](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Twitter.png)](https://twitter.com/bbbvw75x)
+[![Youtube](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Discord.png?raw=true)](https://www.youtube.com/@Bloxxitoo)
+[![Twitch](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Twitch.png?raw=true)](https://www.twitch.tv/Bloxxv2)
+[![Instagram](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Instagram.png?raw=true)](https://www.instagram.com/tismqq/)
 
 
 
